@@ -1,0 +1,21 @@
+{
+  "name": "Ensemble — Jeux Bien-Être",
+  "short_name": "Ensemble",
+  "description": "Jeux bien-être avec vos compagnons Jeanne, Paul et Clara",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F8F9FA",
+  "theme_color": "#0D6EFD",
+  "lang": "fr",
+  "categories": ["games", "health", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
